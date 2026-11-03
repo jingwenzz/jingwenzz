@@ -4,29 +4,27 @@
 
 I build production systems end to end, from embedded firmware and IoT devices through cloud services on GCP/GKE. As Technical Lead at iLumens, I led an **8-engineer team** building a full-stack IoT telemetry platform and the GOAT training system for power-grid operators (funded by the U.S. Department of Energy).
 
-Currently, I'm focused on building reliable, observable backend systems — with an emphasis on clean APIs, data pipelines, and developer experience.
+Currently finishing my **M.S. in Data Science at UC San Diego (Dec 2026)** and looking for full-time **Backend / Platform / AI Infrastructure** roles starting January 2027.
 
-## What I work on
+## What I work with
 
-- 🔌 **IoT & Telemetry** — MQTT pipelines, time-series data, and device management
-- ☁️ **Cloud & Kubernetes** — GCP/GKE, Docker, CI/CD, and observability
-- ⚡ **Energy & Grid** — Training simulators and data systems for power-grid operators
-- 🛠️ **Developer Tools** — Workflow automation, testing infrastructure, and internal platforms
+- **Languages:** Python, Go, C#, TypeScript, SQL, C
+- **Backend & Cloud:** Django, REST APIs, PostgreSQL, GCP, GKE, Kubernetes, Docker, CI/CD (GitHub Actions)
+- **Systems:** IoT / edge-to-cloud pipelines, real-time telemetry, embedded firmware (ESP32, nRF)
+- **ML Systems (coursework):** LLM serving & scheduling, vLLM benchmarking, Triton kernels, quantization (AWQ / INT4 / INT8)
 
 ## Featured projects
 
-- **[teiko-cell-count-dashboard](https://github.com/jingwenzz/teiko-cell-count-dashboard)** — Data pipeline and interactive dashboard for immune-cell population analysis
-- **[TA-Web-Application](https://github.com/jingwenzz/TA-Web-Application)** — ASP.NET Core MVC web application with a SQL database
-- **[AndroidApp](https://github.com/jingwenzz/AndroidApp)** — Health-style Android app: step counting, blood-oxygen estimation, and Google Drive sync
+- **MiniServe**: a Python-based LLM serving scheduler exploring request scheduling for inference workloads *(graduate coursework project)*
+- More projects being added: see pinned repositories below.
 
-## Tech I use
+## Background
 
-**Languages:** C#, C++, Python, Kotlin, JavaScript/TypeScript, SQL
+- 🏢 Technical Lead / Software Engineer: **iLumens LLC**, Salt Lake City (2022–2025)
+- 🎓 M.S. Data Science: **UC San Diego** (2025–2026) · B.S. Computer Science: **University of Utah**
+- 📍 Based in San Diego, CA · Open to relocation (Salt Lake City, Austin, Denver, remote)
 
-**Backend & Cloud:** .NET / ASP.NET Core, GCP, GKE, Kubernetes, Docker, MQTT, PostgreSQL, SQLite
+## Get in touch
 
-**Tools:** Git, GitHub Actions, Visual Studio, Android Studio, Grafana
-
----
-
-📫 **Let's connect:** Open an issue or reach out — I'm always happy to talk about backend systems, IoT, and energy tech.
+- LinkedIn: [linkedin.com/in/zhang-jingwen](https://www.linkedin.com/in/zhang-jingwen)
+- Email: zhangjingwen0109@gmail.com
